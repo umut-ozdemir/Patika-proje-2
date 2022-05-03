@@ -1,0 +1,5 @@
+Doğrusal cebirde veya daha genel ifade ile matematikte matris çarpımı, bir matris çiftinde yapılan ve başka bir matris üreten ikili işlemdir. Reel veya karmaşık sayılar gibi sayılarda temel aritmetiğe uygun olarak çarpma yapılabilir. Başka bir ifade ile matrisler, sayı dizileridir. Bu yüzden, matris çarpımını ifade eden tek bir yöntem yoktur. "Matris çarpımı" terimi çoğunlukla, matris çarpımının farklı yöntemlerini ifade eder. Matris çarpımının anahtar özellikleri şunlardır: Asıl matrislerin satır ve sütun sayıları, (matrisin "boyutu" olarak adlandırılır) ve matrislerin girişlerinin nasıl yeni bir matris oluşturacağıdır.
+
+Vektörler gibi herhangi bir boyutlu matrislerde de, nokta çarpım yapılabilir. Bu işlem, matrisin her bir girişinin (ögesinin) aynı sayı (skaler) ile çarpılmasıdır. Matrislerin toplanması veya çıkarılması işlemleri de benzer şekilde yapılır.
+
+Matris çarpımı başka yöntemlerle de yapılabilir. Fakat en kullanışlı yöntemler, doğrusal denklemler ve doğrusal dönüşümlerle elde edilir. Sayısal uygulamaları, uygulamalı matematik, fizik ve mühendislikte görülür.
